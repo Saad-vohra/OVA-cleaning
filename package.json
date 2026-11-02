@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "OVA Cleaning - Fresh • Bright • Trusted - Official Website",
   "scripts": {
-    "build": "echo Static build ready",
-    "start": "node server.js",
-    "dev": "node server.js"
+    "start": "node dev-server.js",
+    "dev": "node dev-server.js"
   },
   "keywords": [
     "cleaning",
