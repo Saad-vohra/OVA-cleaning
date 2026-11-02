@@ -2,8 +2,8 @@
   "name": "ova-cleaning-website",
   "version": "1.0.0",
   "description": "OVA Cleaning - Fresh • Bright • Trusted - Official Website",
-  "main": "server.js",
   "scripts": {
+    "build": "echo Static build ready",
     "start": "node server.js",
     "dev": "node server.js"
   },
@@ -15,4 +15,3 @@
   "author": "OVA Cleaning",
   "license": "ISC"
 }
-
